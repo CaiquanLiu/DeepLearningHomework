@@ -17,3 +17,14 @@ None
 [Deep Neural Network Application](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/1-NeuralNetworksandDeepLearning/week4/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 # 《Improving Deep Neural Networks：Hyperparameter tuning, Regularization and Optimization》
+
+## Week1
+[Initialization](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/2-ImprovingDeepNeuralNetworks/week1/Initialization.ipynb)
+[Regularization](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/2-ImprovingDeepNeuralNetworks/week1/Regularization%2B-%2Bv2.ipynb)
+[Gradient Checking](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/2-ImprovingDeepNeuralNetworks/week1/Gradient%2BChecking%2Bv1.ipynb)
+
+## Week2
+[Optimization Methods](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/2-ImprovingDeepNeuralNetworks/week2/Optimization%2Bmethods.ipynb)
+
+## Week3
+[TensorFlow Tutorial](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/2-ImprovingDeepNeuralNetworks/week3/Tensorflow%2BTutorial.ipynb)
