@@ -1,6 +1,6 @@
 吴恩达(Andrew)《深度学习工程师》系列课程作业
 
-# 《Neural Networks and Deep Learning》
+# (一)《Neural Networks and Deep Learning》
 
 ## Week1
 None
@@ -16,7 +16,7 @@ None
 [Building your Deep Neural Network:Step by Step](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/1-NeuralNetworksandDeepLearning/week4/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8.ipynb)
 [Deep Neural Network Application](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/1-NeuralNetworksandDeepLearning/week4/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
-# 《Improving Deep Neural Networks：Hyperparameter tuning, Regularization and Optimization》
+# (二)《Improving Deep Neural Networks：Hyperparameter tuning, Regularization and Optimization》
 
 ## Week1
 [Initialization](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/2-ImprovingDeepNeuralNetworks/week1/Initialization.ipynb)
