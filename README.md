@@ -50,12 +50,13 @@
 # (五)《Recurrent Neural Networks》
 
 ## Week1
+* [Building a recurrent neural network- step by step](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week1/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
+* [Dinosaur Island-Character-Level Language Modeling](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week1/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
+* [Jazz improvisation with LSTM](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week1/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
 
 ## Week2
 
 ## Week3
-* [Building a recurrent neural network- step by step]()
-* [Dinosaur Island-Character-Level Language Modeling]()
-* [Jazz improvisation with LSTM]()
+
 
 
