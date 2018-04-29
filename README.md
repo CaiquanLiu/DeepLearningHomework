@@ -28,3 +28,34 @@
 
 ## Week3
 * [TensorFlow Tutorial](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/2-ImprovingDeepNeuralNetworks/week3/Tensorflow%2BTutorial.ipynb)
+
+# (三)《Structuring Machine Learning Projects》
+
+## Week1
+* None
+
+## Week2 
+* None
+
+# (四)《Convolutional Neural Networks》
+
+## Week1
+
+## Week2
+
+## Week3
+
+## Week4
+
+# (五)《Recurrent Neural Networks》
+
+## Week1
+
+## Week2
+
+## Week3
+* [Building a recurrent neural network- step by step]()
+* [Dinosaur Island-Character-Level Language Modeling]()
+* [Jazz improvisation with LSTM]()
+
+
