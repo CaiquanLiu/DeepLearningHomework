@@ -55,6 +55,8 @@
 * [Jazz improvisation with LSTM](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week1/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
 
 ## Week2
+* [Operations on word vectors-Debiasing](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week2/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
+* [Emojify](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week2/Emojify%2B-%2Bv2.ipynb)
 
 ## Week3
 
