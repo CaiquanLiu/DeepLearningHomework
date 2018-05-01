@@ -59,6 +59,7 @@
 * [Emojify](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week2/Emojify%2B-%2Bv2.ipynb)
 
 ## Week3
-
+* [Neural Machine Translation with Attention](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week3/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
+* [Trigger word detection](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/5-RecurrentNeuralNetworks/week3/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
 
 
