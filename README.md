@@ -46,7 +46,7 @@
 * [Keras Tutorial-The Happy House(not graded)](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/4-ConvolutionalNeuralNetworks/week2/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
 * [Residual Networks](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/4-ConvolutionalNeuralNetworks/week2/Residual%2BNetworks%2B-%2Bv2.ipynb)
 ## Week3
-
+* [Car detection with YOLOv2](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/4-ConvolutionalNeuralNetworks/week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 ## Week4
 
 # (五)《Recurrent Neural Networks》
