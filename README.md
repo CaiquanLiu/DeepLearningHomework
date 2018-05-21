@@ -48,6 +48,8 @@
 ## Week3
 * [Car detection with YOLOv2](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/4-ConvolutionalNeuralNetworks/week3/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 ## Week4
+* [Art generation with Neural Style Transfer](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/4-ConvolutionalNeuralNetworks/week4/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
+* [Face Recognition for the Happy House](https://github.com/CaiquanLiu/DeepLearningHomework/blob/master/4-ConvolutionalNeuralNetworks/week4/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
 
 # (五)《Recurrent Neural Networks》
 
